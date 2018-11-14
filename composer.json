@@ -10,8 +10,7 @@
   "minimum-stability": "stable",
   "require": {},
   "autoload": {
-    "files": [
-      "src/TopSdk.php"
-    ]
+    "psr-4": {"topsdk\\": "src/"},
+    "files": ["src/TopSdk.php"]
   }
 } 
