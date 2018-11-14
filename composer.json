@@ -1,1 +1,17 @@
- 
+{
+  "name": "jvir/topsdk",
+  "description": "Aliexpress TopSDK",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Juan V.",
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {},
+  "autoload": {
+    "files": [
+      "src/TopSdk.php"
+    ]
+  }
+} 
